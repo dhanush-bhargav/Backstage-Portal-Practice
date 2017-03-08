@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204027706038",
+    "firebase_url": "https://project-1-e1cbf.firebaseio.com",
+    "project_id": "project-1-e1cbf",
+    "storage_bucket": "project-1-e1cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204027706038:android:79d7d23b47e64993",
+        "android_client_info": {
+          "package_name": "com.example.dhanushsbhargav.colorme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204027706038-g7iq86vengfb780006tcl7a9ov1g4kvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVhuyn7tnOFW-bEwUir8uikH2NhleaQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
